@@ -1,2 +1,2 @@
 # practice15
-View Controller with IBActions
+View Controller with IBActions.
